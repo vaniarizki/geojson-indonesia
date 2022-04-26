@@ -1,6 +1,6 @@
 var kabupaten_centroid = {
 "type":"FeatureCollection",
-"name":"kabupaten-sentroid",
+"name":"kabupaten_centroid",
 "crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},
 "features":[
 {"type":"Feature","properties":{"NAMAKAB":"Aceh Barat","KODEKAB":"1107"},"geometry":{"type":"Point","coordinates":[96.185453083122297,4.45664293171335]}},
