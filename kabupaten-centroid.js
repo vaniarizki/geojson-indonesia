@@ -1,6 +1,6 @@
-var json = {
+var provinsi_centroid = {
     "type":"FeatureCollection",
-    "name":"provinsi-centroid",
+    "name":"provinsi_centroid",
     "crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},
     "features":[
         {"type":"Feature","properties":{"KODEPROV":"11","NAMAPROV":"Aceh"},"geometry":{"type":"Point","coordinates":[96.910279133192759,4.225096282495039]}},
